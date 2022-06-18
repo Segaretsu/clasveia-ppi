@@ -1,0 +1,24 @@
+item { 
+	name:'Vehículo ambulancia'
+	id:1
+}
+item { 
+	name:'Logo ambulancia'
+	id:2
+}
+item { 
+	name:'Texto ambulancia'
+	id:3
+}
+item { 
+	name:'Vehículo bomberos'
+	id:4
+}
+item { 
+	name:'Logo bomberos'
+	id:5
+}
+item { 
+	name:'Texto bomberos'
+	id:6
+}
